@@ -13,3 +13,4 @@
 - Оптимизации загрузки ресурсов и производительности
 - Адаптивной верстке без использования JavaScript
 
+https://github.com/RealProstatus/ono-tebe-nado-ad
